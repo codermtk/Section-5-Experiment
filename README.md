@@ -69,6 +69,7 @@ update_umap_with_image(new_image, encoder, dbscan, reducer, X_umap, clusters_dbs
 2. Instale las dependencias requeridas de `requirements.txt`:
 pip install -r requisitos.txt
 3. Descargue el conjunto de datos del siguiente enlace y colóquelo en la carpeta de datos: https://huggingface.co/datasets/gabrielmfr/section4
+
 Ejemplo de estructura de directorios:
 
 /data10
